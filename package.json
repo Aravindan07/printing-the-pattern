@@ -1,14 +1,15 @@
 {
-  "name": "printing-the-pattern",
+  "name": "pattern-printing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Aravindan <aravindanravi33@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
     "readline-sync": "^1.4.10"
